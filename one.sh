@@ -1,2 +1,2 @@
 #! /bin/sh
-java -Xmx512M -cp target:lib/ECLA.jar:lib/DTNConsoleConnection.jar core.DTNSim $*
+java -Xmx30G -cp target:lib/ECLA.jar:lib/DTNConsoleConnection.jar core.DTNSim $*
